@@ -32,8 +32,10 @@ En onze backend systemen gebruiken voornamelijk:
 
 Daarnaast gebruiken we ook nog diverse andere tools en talen, zo gebruiken we bijvoorbeeld [Sentry](https://sentry.io/welcome/) voor error tracking en performance monitoring (zowel frontend als backend) en bouwen we ook wel eens interne applicaties in [Go](https://go.dev/) of [Node.js](https://nodejs.org/en/) als dat handig is.
 
-## Join ons team!
+## ⚡️ Join ons team!
 
 Wil je ons helpen met het realiseren van ons doel en lijkt het je leuk om bij de tofste prijsvergelijker van Nederland te werken? Wij zijn altijd op zoek naar slimme developers die mee willen bouwen aan ons platform.
 
-Check onze bedrijfsvideo en openstaande vacatures op [Werken bij Keuze.nl](https://www.keuze.nl/werken-bij).
+Lees meer over onze bedrijfscultuur en bekijk onze bedrijfsvideo op [Werken bij Keuze.nl](https://www.keuze.nl/werken-bij).
+
+Of bekijk meteen onze openstaande developer vacature: [Web developer vacature bij Keuze.nl](https://www.keuze.nl/over-ons/vacatures/web-developer)
