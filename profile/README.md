@@ -1,6 +1,6 @@
 # 👋  Welkom op de GitHub van Keuze.nl
 
-![Keuze.nl logo](./keuze-logo.svg)
+![Keuze.nl logo](./profile/keuze-logo.svg)
 
 Welkom op de GitHub van [Keuze.nl](https://www.keuze.nl/)! Hier vind je een aantal van onze open-source libraries. In de repo van [Whitelabeled](https://github.com/whitelabeled/) vind je ook een aantal open-source repositories.
 
