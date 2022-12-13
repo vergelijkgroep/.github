@@ -22,7 +22,7 @@ Voor onze frontend systemen gebruiken we veel:
 
 En onze backend systemen gebruiken voornamelijk:
 
-- [PHP](https://www.php.net/) 7.4+
+- [PHP](https://www.php.net/) 8.0+
 - [Composer](https://getcomposer.org/) voor package management
 - [Yii](https://www.yiiframework.com/) als MVC framework
 - [MariaDB](https://mariadb.org/) als database
